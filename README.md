@@ -7,16 +7,17 @@ I am currently pursuing my B.Tech in computer science. I am a novice open-source
 [![Gmail Badge](https://img.shields.io/badge/-venkatabhaskarpuppala@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:venkatabhaskarpuppala@gmail.com)](mailto:venkatabhaskarpuppala@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Bhaskarstwt-blue?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/Bhaskarstwt)](https://www.twitter.com/Bhaskarstwt)
 
-[![bhaskar's github activity graph](https://activity-graph.herokuapp.com/graph?username=VenkataBhaskarr&theme=xcode)](https://git.io/kaiwalyakoparkar)
+<img src="https://activity-graph.herokuapp.com/graph?username=VenkataBhaskarr&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 
 
 ## ⚡ Technologies  
 
 ### Have played around with 🤓🥰:
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=openjdk)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
 
 ## 📈 Stats
 <p align="center">
