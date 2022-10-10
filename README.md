@@ -14,10 +14,12 @@ I am currently pursuing my B.Tech in computer science. I am a novice open-source
 
 ### Have played around with 🤓🥰:
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=openjdk)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-E272V6?style=flat-square&logo=Node.js)
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-E10444?style=flat-square&logo=express)
+
 
 ## 📈 Stats
 <p align="center">
