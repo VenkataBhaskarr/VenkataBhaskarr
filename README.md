@@ -6,8 +6,6 @@ I am currently pursuing my B.Tech in computer science. I am a novice open-source
 [![Gmail Badge](https://img.shields.io/badge/-venkatabhaskarpuppala@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:venkatabhaskarpuppala@gmail.com)](mailto:venkatabhaskarpuppala@gmail.com)
 [![Twitter Badge](https://img.shields.io/badge/-Bhaskarstwt-blue?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/Bhaskarstwt)](https://www.twitter.com/Bhaskarstwt)
 
-<img src="https://activity-graph.herokuapp.com/graph?username=VenkataBhaskarr&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
-
 
 ## ⚡ Technologies  
 
