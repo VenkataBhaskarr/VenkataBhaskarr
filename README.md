@@ -1,6 +1,7 @@
 ## Hi, I am VenkataBhaskar! Glad to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="70px">
 
-I am currently pursuing my B.Tech in computer science. I am a novice open-source enthusiast. Find out more about me & feel free to connect with me here:
+I am currently pursuing my B.Tech in computer science. I am a novice open-source enthusiast. Currently strugling to take my carrer decision. please you are welcome to guide me about your domain knowledge. Thanks in advance..😘 Find out more about me & feel free to connect with me here:
+
 
 [![Instagram Badge](https://img.shields.io/badge/-bhaskarsig-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/bhaskarsig)](https://instagram.com/bhaskarsig)
 [![Gmail Badge](https://img.shields.io/badge/-venkatabhaskarpuppala@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:venkatabhaskarpuppala@gmail.com)](mailto:venkatabhaskarpuppala@gmail.com)
