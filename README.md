@@ -17,6 +17,7 @@ I am currently pursuing my B.Tech in computer science. I am a novice open-source
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-E272V6?style=flat-square&logo=Node.js)
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-E10444?style=flat-square&logo=express)
+![Python](https://img.shields.io/badge/-Python-D3D3D3?style=flat-square&logo=python)
 
 
 ## 📈 Stats
