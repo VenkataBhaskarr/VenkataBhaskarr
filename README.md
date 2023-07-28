@@ -1,6 +1,6 @@
 ## Hi, I am VenkataBhaskar! Glad to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="70px">
 
-I am currently pursuing my B.Tech in computer science. I am a novice open-source enthusiast. Currently strugling to take my carrer decision. please you are welcome to guide me about your domain knowledge. Thanks in advance..😘 Find out more about me & feel free to connect with me here:
+I am currently pursuing my B.Tech in computer science.I like to do frontend things in javascript and backend things in umm... umm... basically which language makes me feel like what the heck is this i will choose that. I recently fell in love with golang🥰, going on dates with it and if you want to invite us(myself) to your party(project / discussions) feel free to ping me.Find out more about me & feel free to connect with me here:
 
 
 [![Instagram Badge](https://img.shields.io/badge/-bhaskarsig-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/bhaskarsig)](https://instagram.com/bhaskarsig)
@@ -11,13 +11,13 @@ I am currently pursuing my B.Tech in computer science. I am a novice open-source
 ## ⚡ Technologies  
 
 ### Have played around with 🤓🥰:
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=openjdk)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-E272V6?style=flat-square&logo=Node.js)
+![Golang](https://img.shields.io/badge/-Golang-D3F8F2?style=flat-square&logo=go)
 ![ExpressJS](https://img.shields.io/badge/-ExpressJS-E10444?style=flat-square&logo=express)
-![Python](https://img.shields.io/badge/-Python-D3D3D3?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=openjdk)
+![Nodejs](https://img.shields.io/badge/-Nodejs-E272V6?style=flat-square&logo=Node.js)
+
 
 
 ## 📈 Stats
