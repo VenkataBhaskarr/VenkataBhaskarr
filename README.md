@@ -5,7 +5,7 @@ I am currently pursuing my UG in computer science.I like to do frontend things i
 
 [![Instagram Badge](https://img.shields.io/badge/-bhaskarsig-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/bhaskarsig)](https://instagram.com/bhaskarsig)
 [![Gmail Badge](https://img.shields.io/badge/-venkatabhaskarpuppala@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:venkatabhaskarpuppala@gmail.com)](mailto:venkatabhaskarpuppala@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/-bhaskartwts-blue?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/Bhaskarstwt)](https://www.twitter.com/bhaskartwts)
+[![Twitter Badge](https://img.shields.io/badge/-bhaskar-blue?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/nothinbruh)](https://www.twitter.com/nothinbruh)
 
 
 ## ⚡ Technologies  
