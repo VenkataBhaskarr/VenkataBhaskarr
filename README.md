@@ -1,6 +1,6 @@
 ## Hi there, I am VenkataBhaskar! Glad to see you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="70px">
 
-I am currently pursuing my UG in computer science.I like to do frontend things in javascript and backend things in different languages. I recently fell in love with golang🥰 feel free to ping me for any technical discussions:
+I am currently pursuing my UG in computer science.I like to do frontend things in javascript and backend things in different languages. I am currently learning golang🥰 feel free to ping me for any technical discussions:
 
 
 [![Instagram Badge](https://img.shields.io/badge/-bhaskarsig-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/bhaskarsig)](https://instagram.com/bhaskarsig)
